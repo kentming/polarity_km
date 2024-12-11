@@ -2,5 +2,5 @@ streamlit
 pandas
 textblob
 xlrd
-openyxl
+openpyxl
 nltk
